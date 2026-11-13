@@ -32,6 +32,8 @@ SpendWise is a browser-based personal finance dashboard for tracking income, exp
 
 This version uses browser Local Storage. Data stays in the same browser profile on the same device. It is not cloud-synced or protected by a user account. Clearing browser site data can remove it, so use **Data management → Download backup** regularly. Importing a backup replaces the data currently stored in this browser.
 
+## Project link  and access
+- https://spendwise-patrick.netlify.app/
 ## Compatibility
 
 The app uses modern browser features including Local Storage, HTML dialog, Blob downloads and FileReader.
